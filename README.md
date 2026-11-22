@@ -44,7 +44,7 @@
 <img width="1080" height="2345" alt="image" src="https://github.com/user-attachments/assets/20836f99-6d08-40a9-aa20-1ab2a012e105" />
 
 
-Буду рад фидбэку по этому поводу, а так же подписке на тг-канал: https://t.me/my_mos_research
+Буду рад фидбэку по этому поводу
 
 
 ##  Для правообладателей
